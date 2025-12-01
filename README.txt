@@ -53,3 +53,5 @@ Delete application:
 -------------------
 kubectl delete -f greetings.yaml
 
+name: Jamisen Ma
+eid: jkm3488
